@@ -53,8 +53,6 @@ with col1:
                 is powered by [LangChain](https://langchain.com/) and [OpenAI](https://openai.com) and made by \
                 [@GregKamradt](https://twitter.com/GregKamradt). \n\n View Source Code on [Github](https://github.com/gkamradt/globalize-text-streamlit/blob/main/main.py)")
 
-with col2:
-    st.image(image='TweetScreenshot.png', width=500, caption='https://twitter.com/DannyRichman/status/1598254671591723008')
 
 st.markdown("## Enter Your Email To Convert")
 
